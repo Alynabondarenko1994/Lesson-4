@@ -1,0 +1,15 @@
+D:\учеба\Example_\task27\bin\Debug\net6.0\task27.exe
+D:\учеба\Example_\task27\bin\Debug\net6.0\task27.deps.json
+D:\учеба\Example_\task27\bin\Debug\net6.0\task27.runtimeconfig.json
+D:\учеба\Example_\task27\bin\Debug\net6.0\task27.dll
+D:\учеба\Example_\task27\bin\Debug\net6.0\task27.pdb
+D:\учеба\Example_\task27\obj\Debug\net6.0\task27.csproj.AssemblyReference.cache
+D:\учеба\Example_\task27\obj\Debug\net6.0\task27.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Example_\task27\obj\Debug\net6.0\task27.AssemblyInfoInputs.cache
+D:\учеба\Example_\task27\obj\Debug\net6.0\task27.AssemblyInfo.cs
+D:\учеба\Example_\task27\obj\Debug\net6.0\task27.csproj.CoreCompileInputs.cache
+D:\учеба\Example_\task27\obj\Debug\net6.0\task27.dll
+D:\учеба\Example_\task27\obj\Debug\net6.0\refint\task27.dll
+D:\учеба\Example_\task27\obj\Debug\net6.0\task27.pdb
+D:\учеба\Example_\task27\obj\Debug\net6.0\task27.genruntimeconfig.cache
+D:\учеба\Example_\task27\obj\Debug\net6.0\ref\task27.dll
